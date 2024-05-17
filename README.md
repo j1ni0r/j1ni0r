@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<div>
+<a href="https://github.com/j1ni0r">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1ni0r&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=sj1ni0r&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 <!--
 **j1ni0r/j1ni0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
